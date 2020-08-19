@@ -3,7 +3,7 @@
 ## Showcase work and get to know a little about me.
 
 ### Table of contents
-1. [Documents](/docs)
+1. [code](/code)
 2. [Data](/data)
 3. [images](/images)
 4. [references](/references)
